@@ -29,7 +29,6 @@ public class Main {
     brandon.setSsn("SSN");
     System.out.println(brandon.toString());
     System.out.println(convertHexToDec("341"));
-    System.out.println("test");
 
 //    Scanner scan = new Scanner(System.in);
 ////    //Convert gallons to liters
